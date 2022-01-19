@@ -181,3 +181,5 @@ What would you want for the next?
 ---
 
 # Fin
+
+This note is available at [this repo](https://github.com/SsGduxF2T5b2lF/le_guides)
