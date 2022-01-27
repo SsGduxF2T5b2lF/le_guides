@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Jatmika Teja",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lecalc": "file:../calc"
+  }
 }
